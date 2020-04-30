@@ -1,0 +1,3 @@
+swagger:
+  base-package: com.kmcm.calculator.controller
+  host:
